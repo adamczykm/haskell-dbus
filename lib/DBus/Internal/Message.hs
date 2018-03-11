@@ -21,7 +21,7 @@ module DBus.Internal.Message
     , MethodReturn(..)
     , MethodError(..)
     , methodErrorMessage
-    , Signal(..)
+    , Signal
     , ReceivedMessage(..)
 
     -- for use in Wire
